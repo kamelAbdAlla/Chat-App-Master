@@ -1,0 +1,10 @@
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\bin\Debug\Server.exe.config
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\bin\Debug\Server.exe
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\bin\Debug\Server.pdb
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\obj\Debug\Server.Server.resources
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\obj\Debug\Server.exe
+C:\Users\kamel M. Abdalla\Desktop\chat-app-master\chat-app-master\src\Server\Server\obj\Debug\Server.pdb
